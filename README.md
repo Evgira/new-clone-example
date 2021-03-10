@@ -1,3 +1,3 @@
 # new-clone-example
 
-practice
+practice rules
